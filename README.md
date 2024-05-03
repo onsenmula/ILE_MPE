@@ -9,4 +9,4 @@ We release two Simulink files: "power_PSS_example1.slx" and "power_PSS_example2.
 
 
 The input of the file "power_PSS_example1.slx" is a  signal is the difference between the rotor angle of the Machine 1 and the Machine4.
-The input signal of the file "power_PSS_example2.slx" isis the active power from the bus B1 to B2.
+The input signal of the file "power_PSS_example2.slx" is the active power from the bus B1 to B2.
